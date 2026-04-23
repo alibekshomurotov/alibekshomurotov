@@ -1,61 +1,70 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=250&section=header&text=Shomurotov%20Alibek&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Python%20Developer%20%7C%20Django%20Expert&descSize=22&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=250&section=header&text=Shomurotov%20Alibek&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Python%20Django%20|%20React%20Developer&descSize=23&descAlignY=60" width="100%"/>
 
   <br/>
 
-  <p align="center">
-    <font size="5"><b>"Kod yozish — bu shunchaki buyruq berish emas, bu mantiqiy fikrlash san'atidir." 🚀✨</b></font>
-  </p>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Python+%26+Django+Backend+Developer;React+Frontend+Specialist;UI%2FUX+Design+with+Figma;Problem+Solver+%26+Open+Source+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Full-Stack+Python+Developer;Django+Backend+Expert;React+Frontend+Specialist;UI%2FUX+Design+with+Figma;Problem+Solver+%26+Tech+Enthusiast" />
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=alibekshomurotov&label=Profilga%20tashriflar&color=00f7ff&style=for-the-badge" />
-    <img src="https://img.shields.io/github/followers/alibekshomurotov?label=Obunachilar&style=for-the-badge&color=00f7ff&logo=github" />
+    <img src="https://komarev.com/ghpvc/?username=alibekshomurotov&label=Profile%20Views&color=00f7ff&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/alibekshomurotov?label=Network&style=for-the-badge&color=00f7ff&logo=github" />
+    <img src="https://img.shields.io/badge/Status-Active-00FF00?style=for-the-badge" />
   </p>
 </div>
 
 ---
 
-### 🌌 Men Haqimda
+### 🌌 Men haqimda & Professional qarashlarim
 
 <p align="left">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjg5ZjgwdGZudDZoeG83cjM3emMyMTdrZWJhamVmejM2N3VlMTBydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="320" style="border-radius: 15px; border: 2px solid #00F7FF; margin-left: 20px;"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjg5ZjgwdGZudDZoeG83cjM3emMyMTdrZWJhamVmejM2N3VlMTBydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="350" style="border-radius: 20px; border: 3px solid #00F7FF; margin-left: 30px; margin-bottom: 20px;"/>
 
-Salom! Men **Shomurotov Alibek**, Python va JavaScript ekotizimida murakkab va foydali loyihalar yaratishga ishtiyoqi baland bo'lgan dasturchiman. Django yordamida mustahkam backend, React orqali esa interaktiv frontend qismlarini quraman.
+Assalomu alaykum! Men **Shomurotov Alibek**, yuqori darajadagi mantiq va kreativ dizaynni uyg'unlashtirgan dasturchiman. Mening maqsadim — foydalanuvchilar uchun sodda va biznes uchun samarali raqamli yechimlar yaratish.
 
-- 🚀 **Hozirda:** Backend arxitekturasini optimallashtirish va UI/UX dizayn bo'yicha bilimlarimni oshiryapman.
-- 💡 **Falsafam:** Toza kod (Clean Code) va foydalanuvchi uchun qulay interfeys yaratish.
-- 🎨 **Dizayn:** Figma orqali loyihalarim uchun zamonaviy prototiplar chizaman.
-- 🛠️ **Muhit:** Kodlash uchun asosan **VS Code** va **PyCharm**'dan foydalanaman.
+- 👨‍💻 **Backend:** Python va Django yordamida xavfsiz va tezkor tizimlar qurish.
+- 🎨 **Frontend:** React va Tailwind CSS orqali zamonaviy interfeyslar yaratish.
+- 📐 **Dizayn:** Figma yordamida loyiha strukturasini mukammal prototiplash.
+- 🛠️ **Ish qurollari:** VS Code va PyCharm — mening kundalik laboratoriyam.
+- 🚀 **Maqsad:** Har bir yozilgan kod qatori loyihaning umumiy sifatini oshirishi kerak.
 </p>
 
 <br clear="both">
 
 ---
 
-### 🛠️ Texnik Ko'nikmalar (Tech Stack)
+### 🛠️ Texnologik Koinotim (Tech Stack)
 
 <div align="center">
 
-| **Frontend Development** | **Backend & Logic** | **Design & Tools** |
+| **Frontend Core** | **Backend & Logic** | **Design & Tools** |
 | :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /> | <img src="https://skillicons.dev/icons?i=python,django" /> | <img src="https://skillicons.dev/icons?i=figma,github,vscode,pycharm" /> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /> | <img src="https://skillicons.dev/icons?i=py,django" /> | <img src="https://skillicons.dev/icons?i=figma,github,vscode,pycharm" /> |
+
+<p><b>Dinamik mahorat ko'rsatkichlari:</b></p>
+<img src="https://skillicons.dev/icons?i=git,bash,postman,docker,postgres" />
 
 </div>
 
 ---
 
-### 📈 GitHub Statistikam
+### 📈 GitHub Faollik Analitikasi
 
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=alibekshomurotov&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&border_color=00F7FF&border_radius=15" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=alibekshomurotov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&border_radius=15" width="100%" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=alibekshomurotov&theme=tokyonight&hide_border=false&background=0D1117&sideNums=00F7FF&stroke=00F7FF&border=00F7FF&border_radius=15" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=alibekshomurotov&theme=tokyonight&hide_border=true&background=0D1117&sideNums=00F7FF&stroke=00F7FF&border_radius=15" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td width="42%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibekshomurotov&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&border_radius=15" width="100%" />
+      </td>
+      <td width="58%">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=alibekshomurotov&theme=tokyonight&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true&area=true&border_radius=15&custom_title=My%20Development%20Activity" width="100%" />
       </td>
     </tr>
   </table>
@@ -63,7 +72,14 @@ Salom! Men **Shomurotov Alibek**, Python va JavaScript ekotizimida murakkab va f
 
 ---
 
-### 🌐 Men bilan bog'lanish
+### 🐍 Contribution Snake Game
+<div align="center">
+  <img src="https://github-user-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?github_user=alibekshomurotov&outputs=color-graph&color_snake=%2300F7FF&color_dots=%23161b22%2C%23004445%2C%23006d6f%2C%2300a6a9%2C%2300f7ff" width="100%" alt="snake game" />
+</div>
+
+---
+
+### 🌐 Aloqa & Hamkorlik
 
 <p align="center">
   <a href="https://t.me/alibek_shomurotov"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -74,5 +90,7 @@ Salom! Men **Shomurotov Alibek**, Python va JavaScript ekotizimida murakkab va f
 ---
 
 <div align="center">
-  <p>⚡ <i>Muammolarni imkoniyatga aylantiramiz.</i></p>
+  <p><b>Profile Status:</b> <img src="https://img.shields.io/badge/Maintained-Yes-00F7FF?style=flat-square" /> <img src="https://img.shields.io/badge/Status-Secured-orange?style=flat-square" /></p>
+  
+  <p>⚡ <i>Designing digital impact, one commit at a time.</i></p>
 </div>
