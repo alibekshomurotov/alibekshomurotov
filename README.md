@@ -75,7 +75,7 @@ Assalomu alaykum! Men **Shomurotov Alibek**, yuqori darajadagi mantiq va kreativ
 
 ### 🐍 Contribution Snake Game
 <div align="center">
-  <img src="https://github-user-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?github_user=alibekshomurotov&outputs=color-graph&color_snake=%2300F7FF&color_dots=%23161b22%2C%23004445%2C%23006d6f%2C%2300a6a9%2C%2300f7ff" width="100%" alt="snake game" />
+<img src="https://raw.githubusercontent.com/alibekshomurotov/alibekshomurotov/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
 ---
