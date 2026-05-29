@@ -93,5 +93,5 @@ Assalomu alaykum! Men **Shomurotov Alibek**, yuqori darajadagi mantiq va kreativ
 <div align="center">
   <p><b>Profile Status:</b> <img src="https://img.shields.io/badge/Maintained-Yes-00F7FF?style=flat-square" /> <img src="https://img.shields.io/badge/Status-Secured-orange?style=flat-square" /></p>
   
-  <p>⚡ <i>Designing digital impact, one commit at a time.</i></p>
+  <p>⚡ <i>Designing digital impact, one commit at  time.</i></p>
 </div>
